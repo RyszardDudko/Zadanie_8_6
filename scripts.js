@@ -1,4 +1,3 @@
-//<p id="value"></p>
 var a = prompt('Podaj wartość a');
 var b = prompt('Podaj wartość b');
 var value = (a*a)+(2*a*b)-(b*b);
